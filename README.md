@@ -48,5 +48,5 @@ This application provides endpoints to create text files with current timestamps
 
 ## 📝 Postman Documentation
 
-Explore and test the endpoints using [Postman]().
+Explore and test the endpoints using [Postman](https://documenter.getpostman.com/view/16859357/2sAXqp7iCP).
 
