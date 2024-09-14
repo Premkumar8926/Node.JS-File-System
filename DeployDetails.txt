@@ -1,10 +1,10 @@
-Render deploy URL : 
+Render deploy URL : https://node-js-file-system-wozm.onrender.com
 
-Endpoints:
-
+Endpoints: https://node-js-file-system-wozm.onrender.com/createfile
+            https://node-js-file-system-wozm.onrender.com/showfiles
 create file : "/createfile"
 show files in folder: "/showfiles"
 
-Github repo URL: 
+Github repo URL: https://github.com/Premkumar8926/Node.JS-File-System/
 
 Last commit hashID : 
